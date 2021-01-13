@@ -4,3 +4,5 @@ historia argentina:
 - Julio A. Roca
 - Illia
 - Peron
+- Menem
+- Alfonsin
