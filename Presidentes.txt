@@ -4,7 +4,3 @@ historia argentina:
 - Julio A. Roca
 - Illia
 - Peron
-- Menem
-- Alfonsin
-- Nestor Kirchner
-- Cristina Kirchner
