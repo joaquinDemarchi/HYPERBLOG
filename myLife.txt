@@ -1,0 +1,12 @@
+
+Mi life 
+
+The proyect "my life" will have four parts: my birth, my childhood, my 
+adolescence and finally my day to day. Each stage will be represented 
+with a different commit in Git.
+
+First stage. I was born on Wednesday, December 17, 1997 in the Chaco 
+sanatorium, with only two kilograms, it was a very small baby that was 
+supposed to have many problems in childhood.
+
+
