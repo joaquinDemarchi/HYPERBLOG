@@ -1,12 +1,11 @@
 
-Mi life 
+Mi vida
 
-The proyect "my life" will have four parts: my birth, my childhood, my 
-adolescence and finally my day to day. Each stage will be represented 
-with a different commit in Git.
+El proyecto "mi vida" tendrá cuatro partes: mi nacimiento, mi infancia, mi
+la adolescencia y finalmente mi día a día. Cada etapa estará representada
+con una confirmación diferente en Git.
 
-First stage. I was born on Wednesday, December 17, 1997 in the Chaco 
-sanatorium, with only two kilograms, it was a very small baby that was 
-supposed to have many problems in childhood.
-
+Primera etapa. Nací el miércoles 17 de diciembre de 1997 en el Chaco
+sanatorio, con solo dos kilogramos, era un bebé muy pequeño que estaba
+se supone que tiene muchos problemas en la infancia.
 
