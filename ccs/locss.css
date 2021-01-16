@@ -3,10 +3,20 @@ body
 font-family: fantasy;
 text-align: center;
 color: cyan;
+background-color: blueviolet;
 }
 
-.H2 
+H2 
 {
 color: darkblue;
 font-size: xx-large;
+background-color: chartreuse;
+text-align: center;
+
+}
+
+.ulttxt
+{
+    font-size: xx-large;
+    color: darkgoldenrod;
 }
